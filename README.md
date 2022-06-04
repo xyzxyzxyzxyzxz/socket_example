@@ -1,1 +1,2 @@
-# socket_example
+# socket example
+This is a socket example.
